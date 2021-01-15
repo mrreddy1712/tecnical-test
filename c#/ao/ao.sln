@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ao", "ao\ao.csproj", "{189427C3-55A3-40C8-B124-38622A96EE70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aoRegression", "aoRegression", "{52860FA2-F2C5-4F2D-9B92-4226C800AD77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189427C3-55A3-40C8-B124-38622A96EE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189427C3-55A3-40C8-B124-38622A96EE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189427C3-55A3-40C8-B124-38622A96EE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189427C3-55A3-40C8-B124-38622A96EE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{189427C3-55A3-40C8-B124-38622A96EE70} = {52860FA2-F2C5-4F2D-9B92-4226C800AD77}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8844FCD-ACAC-4F3D-BC9C-3BBBDD86BDEB}
+	EndGlobalSection
+EndGlobal
