@@ -1,1 +1,0 @@
-# tecnical-test
